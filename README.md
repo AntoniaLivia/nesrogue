@@ -6,3 +6,5 @@ Work in progress, being developed using the NESFab language (http://pubby.games/
 # to compile using nesfab
 
 nesfab nesrogue.cfg
+
+Toni Blanchflower 2023
